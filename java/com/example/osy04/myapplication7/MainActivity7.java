@@ -12,5 +12,6 @@ public class MainActivity7 extends AppCompatActivity {
 
 //        testestsetestestsetsetetestestse
         // lalsalalalalal
+        onCreateSupportNavigateUpTaskStack();
     }
 }
